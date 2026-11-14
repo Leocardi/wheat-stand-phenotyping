@@ -1,0 +1,145 @@
+{
+  "baseline_sha256": "b7c71be456ce45e194d471caae16eced34ae64349ef3cf0bd48900c14905d3e8",
+  "cases": [
+    {
+      "case": "real20",
+      "frames": 20,
+      "csv_files": 7,
+      "image_files": 14,
+      "json_files": 1,
+      "tables_agree_at_absolute_tolerance": 1e-05,
+      "max_numeric_difference": 0.0,
+      "identical_image_pixels": true,
+      "byte_mismatches": [],
+      "original_seconds": 19.56,
+      "release_seconds": 18.94,
+      "review_reasons": [
+        "predicted_frame_steps",
+        "coarse_anchor_fallbacks"
+      ]
+    },
+    {
+      "case": "synthetic_r0",
+      "frames": 12,
+      "csv_files": 7,
+      "image_files": 10,
+      "json_files": 1,
+      "tables_agree_at_absolute_tolerance": 1e-05,
+      "max_numeric_difference": 0.0,
+      "identical_image_pixels": true,
+      "byte_mismatches": [],
+      "original_seconds": 1.02,
+      "release_seconds": 0.96,
+      "review_reasons": []
+    },
+    {
+      "case": "synthetic_r90",
+      "frames": 12,
+      "csv_files": 7,
+      "image_files": 10,
+      "json_files": 1,
+      "tables_agree_at_absolute_tolerance": 1e-05,
+      "max_numeric_difference": 1.6076205611170735e-07,
+      "identical_image_pixels": true,
+      "byte_mismatches": [
+        "anchors_refined.csv",
+        "geom_keyframes.csv",
+        "keyframes.csv",
+        "poses_all_coarse.csv",
+        "poses_all_corrected.csv",
+        "report_det_keyframe_gaps.csv",
+        "report_keyframe_gaps.csv"
+      ],
+      "original_seconds": 1.05,
+      "release_seconds": 1.02,
+      "review_reasons": []
+    },
+    {
+      "case": "synthetic_r180",
+      "frames": 12,
+      "csv_files": 7,
+      "image_files": 10,
+      "json_files": 1,
+      "tables_agree_at_absolute_tolerance": 1e-05,
+      "max_numeric_difference": 1.6076205611170735e-07,
+      "identical_image_pixels": true,
+      "byte_mismatches": [
+        "anchors_refined.csv",
+        "geom_keyframes.csv",
+        "keyframes.csv",
+        "poses_all_corrected.csv",
+        "report_det_keyframe_gaps.csv",
+        "report_keyframe_gaps.csv"
+      ],
+      "original_seconds": 1.06,
+      "release_seconds": 1.0,
+      "review_reasons": []
+    },
+    {
+      "case": "synthetic_r270",
+      "frames": 12,
+      "csv_files": 7,
+      "image_files": 10,
+      "json_files": 1,
+      "tables_agree_at_absolute_tolerance": 1e-05,
+      "max_numeric_difference": 1.6076205611170735e-07,
+      "identical_image_pixels": true,
+      "byte_mismatches": [
+        "anchors_refined.csv",
+        "geom_keyframes.csv",
+        "keyframes.csv",
+        "poses_all_coarse.csv",
+        "poses_all_corrected.csv",
+        "report_det_keyframe_gaps.csv",
+        "report_keyframe_gaps.csv"
+      ],
+      "original_seconds": 1.06,
+      "release_seconds": 1.0,
+      "review_reasons": []
+    },
+    {
+      "case": "synthetic_reverse",
+      "frames": 12,
+      "csv_files": 7,
+      "image_files": 10,
+      "json_files": 1,
+      "tables_agree_at_absolute_tolerance": 1e-05,
+      "max_numeric_difference": 2.619226506794803e-07,
+      "identical_image_pixels": true,
+      "byte_mismatches": [
+        "anchors_refined.csv",
+        "geom_keyframes.csv",
+        "keyframes.csv",
+        "poses_all_coarse.csv",
+        "poses_all_corrected.csv",
+        "report_det_keyframe_gaps.csv",
+        "report_keyframe_gaps.csv"
+      ],
+      "original_seconds": 1.04,
+      "release_seconds": 1.02,
+      "review_reasons": [
+        "negative_direction_requires_orientation_review"
+      ]
+    }
+  ],
+  "scope": "Behaviour preservation in the same numerical environment, not field registration accuracy.",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "opencv": "5.0.0"
+  },
+  "focused_tests_passed": 9,
+  "computational_functions_checked": 18,
+  "jpeg_exif_decode_checks": [
+    1,
+    3,
+    6,
+    8
+  ],
+  "python_grammar_checked": "3.11",
+  "source_sha256": {
+    "strip_registration.py": "62dcd4f6654a2dc0f94c1e3fce62d037b491bd12df25ee305a7cdb0358acc46a",
+    "registration_config.py": "0902ff51f3c4794c18251d4f765c833141ec2bce7d56a51deee618cc5f4b623e"
+  }
+}

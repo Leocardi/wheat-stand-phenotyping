@@ -1,0 +1,439 @@
+{
+  "cached_partition_inputs": 42,
+  "prior_batches": 41,
+  "current_updated_input": 1,
+  "total_plot_cases": 308,
+  "assigned_point_cases": 220678,
+  "replay_scope": "Edge stage only; original separator selection and assignment were not rerun.",
+  "both_policies_checked": true,
+  "original_supported_edges_preserved": true,
+  "records": [
+    {
+      "group": "long25",
+      "dataset": "data_11",
+      "plots": 4,
+      "assigned_points": 5331,
+      "plots_changed_from_prior": 4,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_12",
+      "plots": 4,
+      "assigned_points": 5603,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_21",
+      "plots": 4,
+      "assigned_points": 5985,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_22",
+      "plots": 4,
+      "assigned_points": 6002,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_31",
+      "plots": 4,
+      "assigned_points": 5869,
+      "plots_changed_from_prior": 1,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_32",
+      "plots": 4,
+      "assigned_points": 7322,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_41",
+      "plots": 4,
+      "assigned_points": 6390,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_42",
+      "plots": 4,
+      "assigned_points": 5489,
+      "plots_changed_from_prior": 1,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_51",
+      "plots": 5,
+      "assigned_points": 6801,
+      "plots_changed_from_prior": 4,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_52",
+      "plots": 5,
+      "assigned_points": 7209,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_61",
+      "plots": 3,
+      "assigned_points": 3921,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_62",
+      "plots": 3,
+      "assigned_points": 3728,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_71",
+      "plots": 4,
+      "assigned_points": 6146,
+      "plots_changed_from_prior": 1,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_72",
+      "plots": 4,
+      "assigned_points": 6213,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_81",
+      "plots": 4,
+      "assigned_points": 4715,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_82",
+      "plots": 4,
+      "assigned_points": 5499,
+      "plots_changed_from_prior": 1,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_91",
+      "plots": 23,
+      "assigned_points": 35206,
+      "plots_changed_from_prior": 16,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_921",
+      "plots": 4,
+      "assigned_points": 3708,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_922",
+      "plots": 5,
+      "assigned_points": 5965,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long25",
+      "dataset": "data_923",
+      "plots": 4,
+      "assigned_points": 3971,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "11",
+      "plots": 4,
+      "assigned_points": 3929,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "12",
+      "plots": 4,
+      "assigned_points": 5009,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "21",
+      "plots": 5,
+      "assigned_points": 4386,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "22",
+      "plots": 5,
+      "assigned_points": 4814,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "31",
+      "plots": 3,
+      "assigned_points": 2512,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "32",
+      "plots": 3,
+      "assigned_points": 2763,
+      "plots_changed_from_prior": 0,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "41",
+      "plots": 5,
+      "assigned_points": 4938,
+      "plots_changed_from_prior": 1,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "42",
+      "plots": 5,
+      "assigned_points": 4842,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "51",
+      "plots": 3,
+      "assigned_points": 3257,
+      "plots_changed_from_prior": 1,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "long26",
+      "dataset": "52",
+      "plots": 3,
+      "assigned_points": 2695,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data11",
+      "plots": 27,
+      "assigned_points": 6706,
+      "plots_changed_from_prior": 20,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data12",
+      "plots": 18,
+      "assigned_points": 4537,
+      "plots_changed_from_prior": 17,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data21",
+      "plots": 4,
+      "assigned_points": 884,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data22",
+      "plots": 4,
+      "assigned_points": 865,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data24",
+      "plots": 18,
+      "assigned_points": 4431,
+      "plots_changed_from_prior": 15,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data25",
+      "plots": 5,
+      "assigned_points": 1080,
+      "plots_changed_from_prior": 4,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data26",
+      "plots": 5,
+      "assigned_points": 1084,
+      "plots_changed_from_prior": 3,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data31",
+      "plots": 27,
+      "assigned_points": 6635,
+      "plots_changed_from_prior": 20,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data32",
+      "plots": 27,
+      "assigned_points": 6202,
+      "plots_changed_from_prior": 23,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data41",
+      "plots": 3,
+      "assigned_points": 715,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "short",
+      "dataset": "data42",
+      "plots": 3,
+      "assigned_points": 643,
+      "plots_changed_from_prior": 2,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    },
+    {
+      "group": "supplied_update",
+      "dataset": "data12_2_in_data11_folder",
+      "plots": 27,
+      "assigned_points": 6678,
+      "plots_changed_from_prior": 23,
+      "ownership_preserved": true,
+      "containment": true,
+      "nonoverlap": true
+    }
+  ],
+  "hashes": {
+    "plot_partition.py": "00eab52fe44f7f3e26a3d4dcbd5ff4dbd3c1b7164d60fbdef82a9e0c8c9a4cbc",
+    "partition_config.py": "790082202e8c56f5f6387baa8a6b9b036e42b8f246ebd2b2a0e911f4da2b282d",
+    "partition_edges.py": "f29652f16e7e2243518fc3a255b3776db0ac43fa7aafef416d0c71d20be6ffb7"
+  },
+  "unit_tests_passed": 22,
+  "fresh_full_pipeline_smoke": "short data41; completed"
+}

@@ -1,0 +1,30 @@
+{
+  "verification_date": "2026-11-13",
+  "reference_construction_sha256": "d48aa990d60273d9f4c42bfcff85cdd9c7edb3127eea96e3f3e753b171aa1eef",
+  "reference_fusion_sha256": "f232c548a24165218804bafb8c854e9a50f94ea070afa2aabcaf2f73673678e8",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "opencv": "5.0.0"
+  },
+  "source_frames_in_registration": 20,
+  "selected_source_keyframes": 6,
+  "construction_files_compared": 14,
+  "fusion_files_compared": 4,
+  "construction_outputs_byte_identical": true,
+  "fusion_outputs_byte_identical": true,
+  "generated_core_predictions": 143,
+  "generated_seam_predictions": 52,
+  "retained_detections": 108,
+  "seam_only_input_corrected": true,
+  "focused_tests_passed": 11,
+  "python_grammar_checked": "3.11",
+  "scope": "Software and numerical comparisons using real source images and generated detector boxes; not field accuracy.",
+  "source_sha256": {
+    "build_core_seam_dataset.py": "92d4aa3300125ac94a853c065c2fcbb484501b51c00742898b96dfb7f1a70d54",
+    "merge_core_seam_results.py": "fbccbb846762382ecad323495336b0576358c3729fb1550580acb469502bd43f",
+    "core_seam_config.py": "c3395fb6412240dbcb59cdc43a90c40b3fcea2f00259a4360f76fac607da142a",
+    "core_seam_io.py": "a4b5cc8ad5654b950c86ecb9a81f50256e4aa0308f3d1c86614dc83afb4ff4bf"
+  }
+}
